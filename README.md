@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/kyab/travis-test-arduino.svg?branch=master)](https://travis-ci.org/kyab/travis-test-arduino)
+[![Build Status](https://travis-ci.org/probonopd/travis-test-arduino.svg?branch=master)](https://travis-ci.org/probonopd/travis-test-arduino)
 
 travis-test-arduino
 ===================
